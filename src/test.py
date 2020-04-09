@@ -1,5 +1,4 @@
 #%%
-
 import sys
 import pandas as pd
 import numpy as np
@@ -12,13 +11,8 @@ plotly.offline.init_notebook_mode(connected=True)
 
 #%%
 # load the data
-df = pd.read_excel("../data/text.xlsx", header=1, usecols="A:I", skiprows=0, nrows=19)
-df_table = ff.create_table(df.head(19))
-df_table.head()
-
-#%%
-#plot the table
-#plotly.offline.plot(df_table, filename='./output/'+plot_table)
+df = pd.read_excel("../data/test.xlsx", header=1, usecols="A:I", skiprows=0, nrows=19)
+df.head()
 
 #%%
 #plot the graph
@@ -76,6 +70,4 @@ fig.update_layout(
 
 #annotations = []
 #fig.update_layout(annotations=annotations)
-
-plotly.offline.plot(fig, filename='./output/'+ plot_line)
 fig.show()
