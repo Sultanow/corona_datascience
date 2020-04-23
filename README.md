@@ -17,3 +17,9 @@ Vorgehen nach TOGAF: </br>
 <li> Data Layer: </li>
 <li> Infrasturucture Layer: </li>  
 </ul>
+
+<h2>Useful References</h2>
+
+<ul>
+<li> https://spectrum.ieee.org/automaton/transportation/self-driving/robot-vehicles-make-contactless-deliveries-amid-coronavirus-quarantine </li>
+</ul>
