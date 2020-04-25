@@ -1,4 +1,4 @@
-# The Architect as a Crisis Manager
+﻿# The Architect as a Crisis Manager
 
 <h2> Wie kann der EA mit der Corona-Krise umgehen? </h2>
 <ul> 
@@ -9,6 +9,23 @@
 </ul>
 
 <h2>Allgemeiner Ansatz mit Fallbeispiel Aviation </h2>
+Herausforderungen in Corona-Krise
+•	Alarmierung 
+•	Bekanntmachen
+•	Media 
+•	Kommunikationsweg
+•	Logistik
+•	Arbeit
+•	Kinderbetreuung
+•	Meeting
+•	Geschäftsteffen
+•	Mittagspause/Kaffeepause
+•	Verkehr
+•	Organisation
+•	Home-Office Management
+•	Quarantäne/Desinfektion
+•	Einkauf/Beschaffung zum Lebensmittel/Grundstoff
+
 
 Vorgehen nach TOGAF: </br>
 <ul>
