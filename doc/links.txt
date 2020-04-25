@@ -1,0 +1,15 @@
+https://gis.stackexchange.com/questions/116319/plotting-elevation-maps-and-shaded-relief-images-from-latitude-longitude-and-e
+https://gis.stackexchange.com/questions/66367/display-a-georeferenced-dem-surface-in-3d-matplotlib
+https://gis.stackexchange.com/questions/223660/images-overlay-in-3d-surface-plot-matplotlib-python
+
+https://geohackweek.github.io/raster/05-pygeotools_rainier/
+
+https://mycarta.wordpress.com/2014/05/08/visualize-mt-st-helen-with-python-and-a-custom-color-palette/
+https://agilescientific.com/blog/2014/5/6/how-much-rock-was-erupted-from-mt-st-helens.html
+https://nbviewer.jupyter.org/github/agile-geoscience/notebooks/blob/master/Mt_St-Helens.ipynb
+
+https://www.geodose.com/2019/09/3d-terrain-modelling-in-python.html
+
+https://github.com/njanakiev/openstreetmap-heatmap
+
+https://python-graph-gallery.com/371-surface-plot/s
