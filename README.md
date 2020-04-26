@@ -11,7 +11,7 @@
 <h2>Allgemeiner Ansatz mit Fallbeispiel Aviation </h2>
 Herausforderungen in Corona-Krise</br>
 <ul>
-	<li>Alarmierung</li> 
+	<li>Alarmierung/Warnung</li> 
 	<li>Bekanntmachen</li>
 	<li>Media</li> 
 	<li>Kommunikationsweg</li>
@@ -25,6 +25,7 @@ Herausforderungen in Corona-Krise</br>
 	<li>Organisation</li>
 	<li>Home-Office Management</li>
 	<li>Quarantäne/Desinfektion</li>
+	<li>(gesundheitliche) Überwachung und Datenschutz</li>
 	<li>Einkauf/Beschaffung zum Lebensmittel/Grundstoff</li>
 </ul>
 
@@ -39,7 +40,7 @@ Vorgehen nach TOGAF: </br>
 <h2>Useful References</h2>
 
 <ul>
-  <li> https://spectrum.ieee.org/automaton/transportation/self-driving/robot-vehicles-make-contactless-deliveries-amid-coronavirus-quarantine </li>
+  <li>https://spectrum.ieee.org/automaton/transportation/self-driving/robot-vehicles-make-contactless-deliveries-amid-coronavirus-quarantine </li>
   <li>https://towardsdatascience.com/tagged/coronavirus</li>
   <li>https://www.bigdata-insider.de/corona-stoppen-mithilfe-von-data-science-und-machine-learning-a-920818/</li>
 </ul>
