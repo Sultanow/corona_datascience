@@ -11,22 +11,22 @@
 <h2>Allgemeiner Ansatz mit Fallbeispiel Aviation </h2>
 Herausforderungen in Corona-Krise</br>
 <ul>
-	<li>Alarmierung/Warnung</li> 
-	<li>Bekanntmachen</li>
+	<li>Alarmierung/Warnung/Bekanntmachen</li> 
+	<li>Progonose/Planung/Strategie</li>
 	<li>Media</li> 
 	<li>Kommunikationsweg</li>
 	<li>Logistik</li>
-	<li>Arbeit</li>
-	<li>Kinderbetreuung</li>
-	<li>Meeting</li>
-	<li>Geschäftsteffen</li>
-	<li>Mittagspause/Kaffeepause</li>
+	<li>Arbeit (Arbeitgeber VS Arbeitnehmer)</li>
+	<li>Meeting/Geschäftsteffen/Mittagspause/Kaffeepause</li>
+	<li>Familie (Kinder, Alten)</li>
+	<li>Freizeit/Event</li>
 	<li>Verkehr</li>
 	<li>Organisation</li>
 	<li>Home-Office Management</li>
 	<li>Quarantäne/Desinfektion</li>
 	<li>(gesundheitliche) Überwachung und Datenschutz</li>
 	<li>Einkauf/Beschaffung zum Lebensmittel/Grundstoff</li>
+	<li>Finanzierung/Schulden/Lohn und Steuer</li>
 </ul>
 
 Vorgehen nach TOGAF: </br>
