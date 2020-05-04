@@ -9,10 +9,10 @@
 </ul>
 
 <h2>Allgemeiner Ansatz mit Fallbeispiel Aviation </h2>
-Herausforderungen in Corona-Krise</br>
+Herausforderungen/Usecases in Corona-Krise</br>
 <ul>
-	<li>Alarmierung/Warnung/Bekanntmachen</li> 
-	<li>Progonose/Planung/Strategie</li>
+	<li>Alarmierung/Warnung/Bekanntmachen/Bericht/Zustand/Information (aus Person/Abteilung/Unternehmen)</li> 
+	<li>Progonose/Planung/Strategie/Massnahme</li>
 	<li>Media</li> 
 	<li>Kommunikationsweg</li>
 	<li>Logistik</li>
@@ -24,7 +24,9 @@ Herausforderungen in Corona-Krise</br>
 	<li>Organisation</li>
 	<li>Home-Office Management</li>
 	<li>Quarantäne/Desinfektion</li>
-	<li>(gesundheitliche) Überwachung und Datenschutz</li>
+	<li>(gesundheitliche) Überwachung und Datenschutz (z.B. durch App in Smartphone)</li>
+	<li>Gesundheitscheck (z.B. Regelmäßige Messung der Körpertempratur)</li>
+	<li>Notfall</li>
 	<li>Einkauf/Beschaffung zum Lebensmittel/Grundstoff</li>
 	<li>Finanzierung/Schulden/Lohn und Steuer</li>
 </ul>
