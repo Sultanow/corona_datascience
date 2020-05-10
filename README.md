@@ -45,4 +45,5 @@ Vorgehen nach TOGAF: </br>
   <li>https://spectrum.ieee.org/automaton/transportation/self-driving/robot-vehicles-make-contactless-deliveries-amid-coronavirus-quarantine </li>
   <li>https://towardsdatascience.com/tagged/coronavirus</li>
   <li>https://www.bigdata-insider.de/corona-stoppen-mithilfe-von-data-science-und-machine-learning-a-920818/</li>
+  <li>https://www.servicenow.de/solutions/crisis-management.html</li>
 </ul>
